@@ -1,76 +1,65 @@
-<!-- ================= HERO ================= -->
+<!-- ========================= HERO SECTION ========================= -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Praveen+Kumar+M;Robotics+%7C+AI+Systems+Engineer;ROS2+%7C+Autonomy+%7C+Perception" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Praveen+Kumar+M;Robotics+%7C+AI+Systems+Engineer;ROS2+%7C+Autonomous+Robots+%7C+Perception;Building+Intelligent+Machines+for+Real+World" />
 </h1>
 
-<h3 align="center">⚙️ Designing Autonomous Systems for Real-World Deployment</h3>
-
----
-
-## 🧠 About Me
-
-Robotics Engineer specializing in **ROS2-based autonomous systems**, currently pursuing the **Erasmus Mundus IFRoS program**.
-
-I design and deploy **real-world robotic systems** integrating perception, navigation, and control — with a strong focus on **reliability and system integration**.
-
-Experience spans **autonomous mobile robots, industrial robotics (YASKAWA, FANUC), and embedded systems**, bridging **research and production environments**.
-
-Led **20+ innovation projects** and delivered training to **2000+ learners**, translating complex robotics into practical engineering systems.
-
----
-
-## ⚡ Technical Architecture Stack
-
-### 🤖 Robotics
-ROS2 • Nav2 • SLAM • LIDAR • Autonomous Navigation  
-
-### 🧠 AI & Vision
-Python • OpenCV • Machine Learning  
-
-### ⚙️ Systems
-Embedded C • Control Systems • Linux  
-
-### 🏭 Industrial
-YASKAWA • FANUC • Robotics Integration  
-
----
-
-## 🏆 Impact
-
-- Built and deployed **autonomous mobile robots (AGVs/AMRs)**  
-- Collaborated with **Ashok Leyland & industrial partners**  
-- Experience across **full robotics product lifecycle**  
-- Strong focus on **hardware–software system integration**  
-
----
-
-## 🔬 Research Focus
-
-- Field robotics in **unstructured environments**  
-- Scalable **ROS2 autonomy architectures**  
-- Real-time **AI-driven perception systems**  
-- Multi-robot coordination & distributed intelligence  
-
----
-
-## 🐍 Contribution Graph
+<h3 align="center">⚙️ AI + Robotics Systems Innovator | Architecting Autonomous Machines at Scale</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+Designing real-world robotics systems that move, perceive, and decide — reliably, intelligently, autonomously.
 </p>
 
 ---
 
-## 🤝 Connect
+<!-- ========================= ABOUT ME ========================= -->
 
-- LinkedIn: https://linkedin.com/in/YOUR_PROFILE  
-- Email: your.email@example.com  
+## 🧠 About Me
+
+I am a Robotics Engineer specializing in **ROS2-based autonomous systems**, currently pursuing the **Erasmus Mundus Joint Master in Intelligent Field Robotic Systems (IFRoS)**.
+
+My work focuses on **autonomy, perception, and deployment-ready robotics systems** — going beyond simulations into real-world execution.
+
+I have engineered **AGVs and AMRs**, integrating **LIDAR perception, Navigation Stack 2, and AI-driven decision pipelines** for dynamic environments.
+
+I bring a **systems-level mindset**, combining **embedded control, robotics architecture, and AI integration** into cohesive, scalable solutions.
+
+With experience across **industrial robotics (YASAKAWA, FANUC)**, I understand both **research depth and production constraints**.
+
+I have also led **20+ innovation projects** and delivered robotics education to **2000+ learners**, translating complex systems into actionable engineering.
+
+
+Currently advancing through **IFRoS (Erasmus Mundus)** with a focus on **globally deployable robotics systems**.
+
 
 ---
 
-## ⚡ Final Note
+<!-- ========================= TECH STACK ========================= -->
 
-Focused on building robotics systems that **operate reliably beyond controlled environments**.
+## ⚡ Technical Architecture Stack
 
-Open to opportunities in **autonomous systems, robotics platforms, and AI-driven engineering teams**.
+### 🤖 Robotics & Autonomy
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Navigation2](https://img.shields.io/badge/Nav2-Autonomous%20Navigation-blue?style=for-the-badge)
+![SLAM](https://img.shields.io/badge/SLAM-LIDAR%20Mapping-green?style=for-the-badge)
+![AMR](https://img.shields.io/badge/AMR-Autonomous%20Robots-orange?style=for-the-badge)
+
+### 🧠 AI & Perception
+![Python](https://img.shields.io/badge/Python-AI%20%26%20ML-yellow?style=for-the-badge&logo=python)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-OpenCV-red?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/ML-Random%20Forest-purple?style=for-the-badge)
+
+### ⚙️ Embedded & Control
+![Embedded Systems](https://img.shields.io/badge/Embedded-C%20%2F%20Microcontrollers-grey?style=for-the-badge)
+![Control Systems](https://img.shields.io/badge/Control-Real--Time-blueviolet?style=for-the-badge)
+
+### 🏭 Industrial Robotics
+![KUKA](https://img.shields.io/badge/KUKA-Industrial%20Automation-orange?style=for-the-badge)
+![FANUC](https://img.shields.io/badge/FANUC-Robotics-yellow?style=for-the-badge)
+
+### 🛠️ Tools & Systems
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-black?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-Version%20Control-red?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue?style=for-the-badge&logo=docker)
+
+---
