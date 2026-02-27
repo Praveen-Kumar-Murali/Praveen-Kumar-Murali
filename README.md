@@ -29,7 +29,7 @@ With experience across **industrial robotics (YASAKAWA, FANUC)**, I understand b
 I have also led **20+ innovation projects** and delivered robotics education to **2000+ learners**, translating complex systems into actionable engineering.
 
 
-Currently advancing through **IFRoS (Erasmus Mundus)** with a focus on **globally deployable robotics systems**.
+Currently pursuing the **Erasmus Mundus Master’s in Intelligent Field Robotic Systems (IFRoS)**, focused on developing globally deployable autonomous systems.
 
 
 ---
@@ -45,21 +45,18 @@ Currently advancing through **IFRoS (Erasmus Mundus)** with a focus on **globall
 ![AMR](https://img.shields.io/badge/AMR-Autonomous%20Robots-orange?style=for-the-badge)
 
 ### 🧠 AI & Perception
-![Python](https://img.shields.io/badge/Python-AI%20%26%20ML-yellow?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-Programming-yellow?style=for-the-badge&logo=python)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-OpenCV-red?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/ML-Random%20Forest-purple?style=for-the-badge)
 
 ### ⚙️ Embedded & Control
 ![Embedded Systems](https://img.shields.io/badge/Embedded-C%20%2F%20Microcontrollers-grey?style=for-the-badge)
 ![Control Systems](https://img.shields.io/badge/Control-Real--Time-blueviolet?style=for-the-badge)
 
 ### 🏭 Industrial Robotics
-![KUKA](https://img.shields.io/badge/KUKA-Industrial%20Automation-orange?style=for-the-badge)
+![YASKAWA](https://img.shields.io/badge/YASKAWA-Industrial%20Robotics-orange?style=for-the-badge)
 ![FANUC](https://img.shields.io/badge/FANUC-Robotics-yellow?style=for-the-badge)
 
 ### 🛠️ Tools & Systems
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu-black?style=for-the-badge&logo=linux)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-red?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-Containerization-blue?style=for-the-badge&logo=docker)
-
 ---
