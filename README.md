@@ -24,9 +24,9 @@ I have engineered **AGVs and AMRs**, integrating **LIDAR perception, Navigation 
 
 I bring a **systems-level mindset**, combining **embedded control, robotics architecture, and AI integration** into cohesive, scalable solutions.
 
-With experience across **industrial robotics (KUKA, FANUC)** and collaborations with **Ashok Leyland**, I understand both **research depth and production constraints**.
+With experience across **industrial robotics (YASAKAWA, FANUC)** , I understand both **research depth and production constraints**.
 
-I have also led **20+ innovation projects** and delivered robotics education to **2000+ learners**, translating complex systems into actionable engineering.
+I have also led **20+ innovation projects** and delivered training sessions to **2000+ learners**, translating complex systems into actionable engineering.
 
 ---
 
