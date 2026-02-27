@@ -12,27 +12,21 @@ Designing real-world robotics systems that move, perceive, and decide — reliab
 
 ---
 
-<!-- ========================= ABOUT ME ========================= -->
-
 ## 🧠 About Me
 
-I am a Robotics Engineer specializing in **ROS2-based autonomous systems**, currently pursuing the **Erasmus Mundus Joint Master in Intelligent Field Robotic Systems (IFRoS)**.
+Robotics Engineer specializing in **ROS2-based autonomous systems**, currently pursuing the **Erasmus Mundus Master’s in Intelligent Field Robotic Systems (IFRoS)**.
 
-My work focuses on **autonomy, perception, and deployment-ready robotics systems** — going beyond simulations into real-world execution.
+I design and deploy **real-world robotic systems** integrating perception, navigation, and control — focusing on **reliability and system integration**.
 
-I have engineered **AGVs and AMRs**, integrating **LIDAR perception, Navigation Stack 2, and AI-driven decision pipelines** for dynamic environments.
+Engineered **AGVs and AMRs** using **LIDAR perception, Navigation Stack 2, and AI-driven pipelines** for dynamic environments.
 
-I bring a **systems-level mindset**, combining **embedded control, robotics architecture, and AI integration** into cohesive, scalable solutions.
+Strong in **embedded control, robotics architecture, and full system integration**.
 
-With experience across **industrial robotics (YASAKAWA, FANUC)**, I understand both **research depth and production constraints**.
+Experience in **industrial robotics (YASKAWA, FANUC)** with understanding of **production constraints and deployment challenges**.
 
-I have also led **20+ innovation projects** and delivered robotics education to **2000+ learners**, translating complex systems into actionable engineering.
-
-
+Led **20+ innovation projects** and trained **2000+ learners** in applied robotics.
 
 ---
-
-<!-- ========================= TECH STACK ========================= -->
 
 ## ⚡ Technical Architecture Stack
 
@@ -57,4 +51,5 @@ I have also led **20+ innovation projects** and delivered robotics education to 
 ### 🛠️ Tools & Systems
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu-black?style=for-the-badge&logo=linux)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-red?style=for-the-badge&logo=git)
+
 ---
