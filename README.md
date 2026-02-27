@@ -29,8 +29,6 @@ With experience across **industrial robotics (YASAKAWA, FANUC)**, I understand b
 I have also led **20+ innovation projects** and delivered robotics education to **2000+ learners**, translating complex systems into actionable engineering.
 
 
-Currently pursuing the **Erasmus Mundus Master’s in Intelligent Field Robotic Systems (IFRoS)**, focused on developing globally deployable autonomous systems.
-
 
 ---
 
