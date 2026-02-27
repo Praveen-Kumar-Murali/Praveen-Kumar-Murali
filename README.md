@@ -1,10 +1,10 @@
 <!-- ========================= HERO SECTION ========================= -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Praveen+Kumar+M;Robotics+%7C+AI+Systems+Engineer;ROS2+%7C+Autonomous+Robots+%7C+Perception;Building+Intelligent+Machines+for+Real+World" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Praveen+Kumar+Murali;Robotics+%7C+AI+Systems+Engineer;ROS2+%7C+Autonomous+Robots+%7C+Perception;Building+Intelligent+Machines+for+Real+World" />
 </h1>
 
-<h3 align="center">⚙️ AI + Robotics Systems Innovator | Architecting Autonomous Machines at Scale</h3>
+<h3 align="center">⚙️ Robotics Systems Engineer | Architecting Autonomous Machines at Scale</h3>
 
 <p align="center">
 Designing real-world robotics systems that move, perceive, and decide — reliably, intelligently, autonomously.
